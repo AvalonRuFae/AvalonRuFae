@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am  a year two student currently studying Computer Science in University.
+
 <!--
 **AvalonRuFae/AvalonRuFae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
